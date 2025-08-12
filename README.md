@@ -3,7 +3,7 @@
 Bulk check IP's
 
 '''
-usage: ip_reputation.py [-h] --in INFILE [--out OUTFILE] [--max-parallel MAX_PARALLEL] [--rps RPS] [--max-age MAX_AGE] [--api-key API_KEY]
+    usage: ip_reputation.py [-h] --in INFILE [--out OUTFILE] [--max-parallel MAX_PARALLEL] [--rps RPS] [--max-age MAX_AGE] [--api-key API_KEY]
 
     AbuseIPDB bulk checker:
 
