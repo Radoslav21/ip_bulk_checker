@@ -2,8 +2,6 @@
 
 Bulk check IP's
 
-'''BASH
-
     usage: ip_reputation.py [-h] --in INFILE [--out OUTFILE] [--max-parallel MAX_PARALLEL] [--rps RPS] [--max-age MAX_AGE] [--api-key API_KEY]
 
     AbuseIPDB bulk checker:
@@ -20,5 +18,3 @@ Bulk check IP's
     --rps RPS             Макс. заявки/секунда (default: 1.0).
     --max-age MAX_AGE     maxAgeInDays (default: 365).
     --api-key API_KEY     API ключ (ако не ползваш ABUSEIPDB_KEY).
-
-'''
